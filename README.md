@@ -1,8 +1,5 @@
 ﻿# Celebal Summer Intern Task-1
 ## Domain: NodeJS
-## :page_facing_up: [Swagger Documentation](https://csi-task-one.herokuapp.com/api-docs/)
-### **Note: Only use HTTPS scheme in swagger doc.**
-## :rocket: [Express App Deployed at Heroku](https://csi-task-one.herokuapp.com/): 
 ### - Create a CRUD Operations for a Student Application having the following functionality.
 + Admin can register the students and circulate the StudentID to respective Student
 + Admin can update the total marks plus marks in every subject in the system
